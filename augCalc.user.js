@@ -6,11 +6,11 @@
 // @author       GxandarG
 // @match        *://*.idlescape.com/*
 // @grant        none
-// @updateURL    https://raw.githubusercontent.com/salemcse/idlespace-aug-calc/augCalc.user.js
-// @downloadURL  https://raw.githubusercontent.com/salemcse/idlespace-aug-calc/augCalc.user.js
-// @require      https://raw.githubusercontent.com/salemcse/idlespace-aug-calc/augCalc.js
+// @updateURL    https://raw.githubusercontent.com/salemcse/idlescape-aug-calc/augCalc.user.js
+// @downloadURL  https://raw.githubusercontent.com/salemcse/idlescape-aug-calc/augCalc.user.js
+// @require      https://raw.githubusercontent.com/salemcse/idlescape-aug-calc/augCalc.js
 // @require      https://raw.githubusercontent.com/HighOnMikey/idlescape-data/main/src/data.js
-// @require      https://raw.githubusercontent.com/salemcse/idlespace-aug-calc/extensions/tooltips.js
+// @require      https://raw.githubusercontent.com/salemcse/idlescape-aug-calc/extensions/tooltips.js
 // @run-at document-start
 // ==/UserScript==
 
