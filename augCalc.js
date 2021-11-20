@@ -4,6 +4,7 @@ class augCalc {
     }
 
     loadExtensions() {
-        this.extensions.augTooltips = new augTooltips(this);
+        // this.extensions.augTooltips = new augTooltips(this);
+        this.extensions.augUI = new augUI(this);
     }
 }
