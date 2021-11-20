@@ -1,9 +1,9 @@
-class EnragedRobot {
+class augCalc {
     constructor() {
         this.extensions = {};
     }
 
     loadExtensions() {
-        this.extensions.Tooltips = new augTooltips(this);
+        this.extensions.augTooltips = new augTooltips(this);
     }
 }
