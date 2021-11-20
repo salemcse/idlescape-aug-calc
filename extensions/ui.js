@@ -4,7 +4,7 @@ class augUI {
         this.observers = [];
         this.listeners = [];
 
-        this.enable();
+        this.addUIButton();
     }
 
     addUIButton() {
