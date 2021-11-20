@@ -3,6 +3,8 @@ class augTooltips {
         this.augCalc = augCalc;
         this.observers = [];
         this.listeners = [];
+
+        this.enable();
     }
 
     enable() {
@@ -11,7 +13,7 @@ class augTooltips {
                 clearInterval(waitInterval);
             }
         }, 150);
-
+console.log('radoi');
         this.setupObservers();
         this.startObservers();
         // this.startModifierKeyListeners();
