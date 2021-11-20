@@ -8,9 +8,10 @@
 // @grant        none
 // @updateURL    https://raw.githubusercontent.com/salemcse/idlescape-aug-calc/main/augCalc.user.js
 // @downloadURL  https://raw.githubusercontent.com/salemcse/idlescape-aug-calc/main/augCalc.user.js
-// @require      https://raw.githubusercontent.com/salemcse/idlescape-aug-calc/main/augCalc.js
 // @require      https://raw.githubusercontent.com/HighOnMikey/idlescape-data/main/src/data.js
+// @require      https://raw.githubusercontent.com/salemcse/idlescape-aug-calc/main/augCalc.js
 // @require      https://raw.githubusercontent.com/salemcse/idlescape-aug-calc/main/extensions/tooltips.js
+// @require      https://raw.githubusercontent.com/salemcse/idlescape-aug-calc/main/extensions/ui.js
 // @run-at document-start
 // ==/UserScript==
 
